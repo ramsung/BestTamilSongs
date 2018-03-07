@@ -27,16 +27,7 @@
 
 
 
-    <include
-        layout="@layout/card_special_thanks"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:visibility="gone" />
 
-    <include
-        layout="@layout/card_language_contributors"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
 
 
     <include layout="@layout/card_info" />
